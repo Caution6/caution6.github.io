@@ -3,12 +3,12 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "My Acedemic Experience"
-      href: about.html
+    - text: "Resume"
+      href: resume.html
     - icon: fa-envelope fa-lg
       href: mailto:<yl4612@columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/Caution6/
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo

@@ -6,17 +6,22 @@ output:
     toc_float: true
 ---
 
-# This is Yanhao Li's website
+# Welcome!
 
 Hello, friends.
 
+I'm Yanhao Li. Here is my website, a place where you can learn more about me.
 
+# My Academic Experience
 
-# Other information about me
+The button below provides you information about my academic experience.
 
-[My Academic Experience](academic_exp.html)
+Click the button. [Resume](resume.html)
 
 # Links to other professional networks
 
-* [Google](http://www.google.com/)
-* [P8105](http://p8105.com)
+* [Nature](https://www.nature.com/)
+* [Science](https://www.sciencemag.org/)
+* [NCBI](https://www.ncbi.nlm.nih.gov/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+* [RCSB PDB](https://www.rcsb.org/)

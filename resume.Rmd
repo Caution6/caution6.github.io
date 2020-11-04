@@ -1,26 +1,26 @@
 ---
-title: "My Acedamic Experience"
+title: "Resume"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# Education Experience
+## Education Experience
 
-Columbia University
+Columbia University -- 08/2020 ~ Present
 
-Rensselaer Polytechnic Institute
+Rensselaer Polytechnic Institute -- 08/2016 ~ 12/2019
 
-Wuxi No.1 High School
+Wuxi No.1 High School -- 08/2013 ~ 05/2016
 
-# Research Experience
+## Research Experience
 
-### Organization/ Research laboratory:
+#### Organization/ Research laboratory:
 
-C.Wang Research Lab
+C.Wang Research Lab -- 08/2018 ~ 12/2019
 
-### Work done:
+#### Work done:
 
 Learned about the mechanism of CypD-NTD binding
 
@@ -34,7 +34,7 @@ Analyzed the protein concentration of samples by nanodrop
 
 Examined the location of binding sites by NMR
 
-# Honor
+## Honor
 
 Dean’s Honor List Spring, 2017
 
