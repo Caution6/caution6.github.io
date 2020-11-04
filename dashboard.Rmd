@@ -28,9 +28,13 @@ rest_inspec =
   select(boro, critical_flag, cuisine_description, dba, year, month, day, score) %>% 
   filter(
     boro == 'MANHATTAN', 
-    year == '2017',
-    cuisine_description != "Not Listed/Not Applicable"
-    )
+    year == '2017'
+    ) %>% 
+  group_by(cuisine_description) %>%
+  filter(n() > 500) %>% 
+  ungroup()
+  
+rest_inspec[rest_inspec == 'Latin (Cuban, Dominican, Puerto Rican, South & Central American)'] <- 'Latin'
 ```
 
 
@@ -44,7 +48,7 @@ rest_inspec %>%
   mutate(text_label = str_c("Name: ", dba, "\nMonth: ", month, "\nDay: ", day)) %>% 
   plot_ly(
     x = ~cuisine_description, y = ~score, color = ~critical_flag, text = ~text_label, 
-    alpha = .4, type = "scatter", mode = "markers", colors = "viridis")
+    alpha = .5, type = "scatter", mode = "markers", colors = "viridis")
 ```
 
 Column {data-width=350}
