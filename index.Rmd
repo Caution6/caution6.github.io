@@ -6,19 +6,19 @@ output:
     toc_float: true
 ---
 
-# Welcome!
+## Welcome!
 
 Hello, friends.
 
 I'm Yanhao Li. Here is my website, a place where you can learn more about me.
 
-# My Academic Experience
+## My Academic Experience
 
 The button below provides you information about my academic experience.
 
 Click the button. [Resume](resume.html)
 
-# Links to other professional networks
+## Links to other professional networks
 
 * [Nature](https://www.nature.com/)
 * [Science](https://www.sciencemag.org/)
