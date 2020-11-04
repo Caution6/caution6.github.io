@@ -12,6 +12,12 @@ Hello, friends.
 
 I'm Yanhao Li. Here is my website, which shows my work on Homework 4.
 
+## About Dataset
+
+To better understand the dataset I used for plots.
+
+Click the button. [Restaurant Inspections](https://p8105.com/dataset_restaurant_inspections.html)
+
 ## My Academic Experience
 
 The button below provides you information about my academic experience.
@@ -23,8 +29,11 @@ Click the button. [Resume](resume.html)
 Here are my favorite games. 
 
 ![](images/stellaris.jpg)
+
 ![](images/l4d2.jpg)
+
 ![](images/borderlands.jpg)
+
 ![](images/slay_the_spire.jpg)
 
 ## Links to other professional networks
