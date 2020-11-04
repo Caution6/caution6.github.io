@@ -1,0 +1,41 @@
+---
+title: "My Acedamic Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Education Experience
+
+Columbia University
+
+Rensselaer Polytechnic Institute
+
+Wuxi No.1 High School
+
+# Research Experience
+
+### Organization/ Research laboratory:
+
+C.Wang Research Lab
+
+### Work done:
+
+Learned about the mechanism of CypD-NTD binding
+
+Cultivated bacteria that carry specific domains of NTD protein
+
+Conducted experiments to over-express NTD protein
+
+Conducted experiments to purify NTD protein
+
+Analyzed the protein concentration of samples by nanodrop
+
+Examined the location of binding sites by NMR
+
+# Honor
+
+Dean’s Honor List Spring, 2017
+
+Dean’s Honor List Fall, 2017
