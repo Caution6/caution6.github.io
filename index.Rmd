@@ -28,13 +28,13 @@ Click the button. [Resume](resume.html)
 
 Here are my favorite games. 
 
-![](images/stellaris.jpg)
+<img src="images/stellaris.png" style="width:75%">
 
-![](images/l4d2.jpg)
+<img src="images/l4d2.png" style="width:75%">
 
-![](images/borderlands.jpg)
+<img src="images/borderlands.png" style="width:75%">
 
-![](images/slay_the_spire.jpg)
+<img src="images/slay_the_spire.png" style="width:75%">
 
 ## Links to other professional networks
 
