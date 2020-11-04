@@ -10,13 +10,22 @@ output:
 
 Hello, friends.
 
-I'm Yanhao Li. Here is my website, a place where you can learn more about me.
+I'm Yanhao Li. Here is my website, which shows my work on Homework 4.
 
 ## My Academic Experience
 
 The button below provides you information about my academic experience.
 
 Click the button. [Resume](resume.html)
+
+## My favorite games
+
+Here are my favorite games. 
+
+![](images/stellaris.jpg)
+![](images/l4d2.jpg)
+![](images/borderlands.jpg)
+![](images/slay_the_spire.jpg)
 
 ## Links to other professional networks
 
